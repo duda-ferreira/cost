@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "id": "b3a6",
+      "name": "teste",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "57ec",
+      "name": "teste",
+      "budget": "90",
+      "category": {
+        "id": "3",
+        "name": "Gestão"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "cd87",
+      "name": "teste",
+      "budget": "90",
+      "category": {
+        "id": "3",
+        "name": "Gestão"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Gestão"
+    },
+    {
+      "id": "4",
+      "name": "IA"
+    }
+  ]
+}
